@@ -424,7 +424,7 @@ body.active {
 ------------------main section--------------*/
 
 .hero {
-    background: url("../images/wb.jpg") no-repeat;
+    background: url("../img/wb.jpg") no-repeat;
     background-size: cover;
     background-position: center;
     min-height: 750px;
@@ -437,7 +437,7 @@ body.active {
 }
 
 .hero1 {
-    background: url("../images/cb.jpg") no-repeat;
+    background: url("../img/cb.jpg") no-repeat;
     background-size: cover;
     background-position: center;
     min-height: 750px;
@@ -450,7 +450,7 @@ body.active {
 }
 
 .hero3 {
-    background: url("../images/lot.jpg") no-repeat;
+    background: url("../img/lot.jpg") no-repeat;
     background-size: cover;
     background-position: center;
     min-height: 750px;
@@ -487,7 +487,7 @@ body.active {
 \*-----------------------------------*/
 
 .upcoming {
-    background: url("../images/dark.jpg") no-repeat;
+    background: url("../img/dark.jpg") no-repeat;
     background-size: cover;
     background-position: center;
     padding-block: var(--section-padding);
@@ -534,7 +534,7 @@ body.active {
 \*-----------------------------------*/
 
 .service {
-    background: url("../images/service-bg.jpg") no-repeat;
+    background: url("../img/service-bg.jpg") no-repeat;
     background-size: cover;
     background-position: center;
     padding-block: var(--section-padding);
@@ -622,7 +622,7 @@ body.active {
 \*-----------------------------------*/
 
 .movie-detail {
-    background: url("../images/movie-detail-bg.png") no-repeat;
+    background: url("../img/movie-detail-bg.png") no-repeat;
     background-size: cover;
     background-position: center;
     padding-top: 160px;
